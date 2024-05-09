@@ -1,2 +1,2 @@
-# An-lise-TWD
-Análise da série The Walking Dead com base nos dados disponibilizados pelo site IMDB.
+# Analise-TWD
+Projeto da disciplina de `Análise de dados` ministrada pelo excelentíssimo professor Marcus Carvalho, que tem como objetivo uma análise exploratória da série de tv *The Walking Dead*.
